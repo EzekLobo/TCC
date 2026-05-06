@@ -23,5 +23,28 @@
         "pdflatex"
       ]
     }
-  ]
+  ],
+  "files.exclude": {
+    "**/*.acn": true,
+    "**/*.acr": true,
+    "**/*.alg": true,
+    "**/*.aux": true,
+    "**/*.bbl": true,
+    "**/*.blg": true,
+    "**/*.brf": true,
+    "**/*.fls": true,
+    "**/*.fdb_latexmk": true,
+    "**/*.glg": true,
+    "**/*.glo": true,
+    "**/*.gls": true,
+    "**/*.idx": true,
+    "**/*.ilg": true,
+    "**/*.ind": true,
+    "**/*.lof": true,
+    "**/*.log": true,
+    "**/*.lot": true,
+    "**/*.out": true,
+    "**/*.synctex.gz": true,
+    "**/*.toc": true
+  }
 }
